@@ -61,8 +61,8 @@ NoetixAI/
 ## Join the NoetixAI Community
 
 We welcome collaboration and discussion from all levels of AI practitioners and enthusiasts. Together, we can explore the intersection of intelligence, technology, and philosophy.
-	•	GitHub: https://github.com/NoetixAI￼
-	•	Discussions / Community: TBD (WeChat, Weibo, RedBook, WhatsApp, Discord, Telegram, etc. )
+- GitHub: https://github.com/NoetixAI￼    
+- Discussions / Community: TBD (WeChat, Weibo, RedBook, WhatsApp, Discord, Telegram, etc. )    
 
 
 ## Values
