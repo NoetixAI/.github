@@ -42,8 +42,9 @@ Join us in pushing the frontier of AI intelligence and consciousness.
 
 ## Organization Structure
 
-We structure our repositories to reflect our focus areas:
+We structure our repositories to reflect our focus areas:   
 
+```
 NoetixAI/
 |
 +-- AI_Infra/           # AI infrastructure, frameworks, and tools
@@ -54,6 +55,7 @@ NoetixAI/
 +-- Agent_Application/  # AI applications in research, education, trading, and more
 +-- docs/               # Documentation, tutorials, and community guides
 `-- examples/           # Sample projects and experiments
+```
 
 
 ## Join the NoetixAI Community
